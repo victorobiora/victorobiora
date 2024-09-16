@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm victor, a software engineer with a major focus on frontend web technologies. I currently write NextJS and TS but have experience with similar stacks in this field. Looking to communicate and hopefully collaborate with other software engineers on here. Tech is the future and the future arrived yesterday!
+Hi, I'm victor, a software engineer with a major focus on frontend web technologies. I currently write NextJS and TS but have experience with similar stacks in this field. Looking to communicate and hopefully collaborate with other software engineers on here. Tech is the future and the future arrived yesterday! Let's connect!
 
 
 ## 🌐 Socials:
