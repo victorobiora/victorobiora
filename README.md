@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Victor — a software engineer currently transitioning from frontend and data science into Cloud and Platform Engineering.
+Hi, I'm Victor — a software engineer currently transitioning from Web Development into Cloud and Platform Engineering.
 
 I have a strong background in building web applications using Next.js, TypeScript, and modern frontend tooling, along with experience in data analytics and visualization using R and Power BI.
 
